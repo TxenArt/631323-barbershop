@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Артем Бубнов](https://up.htmlacademy.ru/htmlcss/20/user/631323).
+* Наставник: [Яна Крикливая](https://htmlacademy.ru/profile/kyarun).
 
 ---
 
